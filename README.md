@@ -1,4 +1,4 @@
 cosmos
 ======
 
-a COmponent System Odel for Software Architectures
+a COmponent System MOdel for Software Architectures
